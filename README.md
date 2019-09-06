@@ -1,5 +1,5 @@
 # Schedule_to_Google-Calendar
-A program to sync a schedule with Google Calendar
+A Gradle program to sync a schedule with Google Calendar
 
 # Description 
 A software component that loads a weekly activity schedule and a calendar that is valid for a given schedule and synchronizes it with Google Calendar.<br><br>
