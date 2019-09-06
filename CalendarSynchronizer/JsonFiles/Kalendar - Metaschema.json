@@ -1,0 +1,28 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"description": "Kalendar",
+	"type": "object",
+	"properties": {
+		"pocetniDatum": {
+			"type": "string",
+			"pattern": "^(19|20)\\d\\d([- /.])(0[1-9]|1[012])\\2(0[1-9]|[12][0-9]|3[01])$"
+		},
+		"krajnjiDatum": {
+			"type": "string",
+			"pattern": "^(19|20)\\d\\d([- /.])(0[1-9]|1[012])\\2(0[1-9]|[12][0-9]|3[01])$"
+		},
+		"neradniDani": {
+			"description": "Niz perioda u kojima ne vazi raspored (na primer neradni dani zbog praznika)",
+			"type": "array",
+			"items": {
+				"type": "string",
+				"pattern": "^(19|20)\\d\\d([- /.])(0[1-9]|1[012])\\2(0[1-9]|[12][0-9]|3[01])$"
+			}
+		}
+	},
+	"additionalProperties": false,
+	"required": [
+		"pocetniDatum",
+		"krajnjiDatum"
+	]
+}

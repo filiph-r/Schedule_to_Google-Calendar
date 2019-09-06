@@ -1,0 +1,94 @@
+{
+	"termini": [
+		{
+			"predmet": "Razvoj mobilnih aplikacija",
+			"tip": "Predavanja",
+			"nastavnik": "Lutovac Maja",
+			"grupe": "303, 304, 306, 308, 309, 313, 314, 307",
+			"dan": "PON",
+			"vreme": "09:15-11",
+			"ucionica": "U1"
+		},
+		{
+			"predmet": "Verovatnoca i statistika",
+			"tip": "Predavanja",
+			"nastavnik": "Jovanovic Jelena",
+			"grupe": "301, 302, 304, 306, 307, 308",
+			"dan": "PON",
+			"vreme": "12:15-14",
+			"ucionica": "U6"
+		},
+		{
+			"predmet": "WEB programiranje",
+			"tip": "Vezbe",
+			"nastavnik": "Pluskoski Aleksandar",
+			"grupe": "304, 308, 301",
+			"dan": "PON",
+			"vreme": "14:15-16",
+			"ucionica": "U7"
+		},
+		{
+			"predmet": "Verovatnoca i statistika",
+			"tip": "Vezbe",
+			"nastavnik": "Jerotijevic Marija",
+			"grupe": "301, 302, 304, 306, 308, 307",
+			"dan": "PON",
+			"vreme": "16:15-18",
+			"ucionica": "Rg7"
+		},
+		{
+			"predmet": "Interakcija covek racunar",
+			"tip": "Vezbe",
+			"nastavnik": "Radosavljevic Nemanja",
+			"grupe": "306, 308, 309, 307",
+			"dan": "UTO",
+			"vreme": "13:15-15",
+			"ucionica": "U7"
+		},
+		{
+			"predmet": "Razvoj mobilnih aplikacija",
+			"tip": "Vezbe",
+			"nastavnik": "Medenica Igor",
+			"grupe": "306, 308, 307",
+			"dan": "UTO",
+			"vreme": "17:15-19",
+			"ucionica": "Rg9"
+		},
+		{
+			"predmet": "Softverske komponente",
+			"tip": "Vezbe",
+			"nastavnik": "Radovic Mihailo",
+			"grupe": "301, 308",
+			"dan": "SRE",
+			"vreme": "10:15-12",
+			"ucionica": "U4"
+		},
+		{
+			"predmet": "Softverske komponente",
+			"tip": "Predavanja",
+			"nastavnik": "Dimic Surla Bojana",
+			"grupe": "301, 308",
+			"dan": "SRE",
+			"vreme": "14:15-16",
+			"ucionica": "U3"
+		},
+		{
+			"predmet": "Interakcija covek racunar",
+			"tip": "Predavanja",
+			"nastavnik": "Vujosevic Dusan",
+			"grupe": "301, 302, 303, 304, 306, 308, 309, 310, 2s1, 2s2, 307",
+			"dan": "SRE",
+			"vreme": "16:15-18",
+			"ucionica": "Kolarac"
+		},
+		{
+			"predmet": "WEB programiranje",
+			"tip": "Predavanja",
+			"nastavnik": "Vidakovic MIlan",
+			"grupe": "301, 303, 304, 308, 309, 310, 314, 319",
+			"dan": "PET",
+			"vreme": "11:15-13",
+			"ucionica": "U1"
+		}
+	]
+}
